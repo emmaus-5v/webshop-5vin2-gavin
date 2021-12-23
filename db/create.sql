@@ -50,6 +50,10 @@ insert into products (name, description, code, price, type_id, merk_id) values (
 insert into products (name, description, code, price, type_id, merk_id) values ('Porsche 911', '1,000,000 produced up to 2017.', '28734872-2', 155141, 3, 14);
 insert into products (name, description, code, price, type_id, merk_id) values ('Tesla Model 3', '1,000,000 by June 2021.', '32847823-5', 49980.0, 1, 15);
 insert into products (name, description, code, price, type_id, merk_id) values ('Saturn S-Series', 'Approximately 2,210,000 not counting 2002.', '32847823-5', 9987.0, 2, 16);
+insert into products (name, description, code, price, type_id, merk_id) values ('Volvo 200 Series', '2,862,573 saloon, estate and coupe models over a spell of 19 years.', '9435897-2', 8636.0, 3, 17);
+insert into products (name, description, code, price, type_id, merk_id) values ('Lancia Ypsilon', 'over 870,000 to 2005.', '2384982-2', 16700.0, 2, 18);
+insert into products (name, description, code, price, type_id, merk_id) values ('Eagle Talon', 'Approximately 200,000.', '8238459-2', 3123.0, 5, 19);
+insert into products (name, description, code, price, type_id, merk_id) values ('Fiat Uno', 'Sold over six million in Western Europe before being replaced by the Punto in 1995, while production continued in South Africa, Poland and Brazil.', '23748722-2', 2150.0, 4, 20);
 
 insert into type (name) values ('Hatchback');
 insert into type (name) values ('Sedan');
@@ -75,3 +79,7 @@ insert into merk (name) values ('Jaguar');
 insert into merk (name) values ('Porsche');
 insert into merk (name) values ('Tesla');
 insert into merk (name) values ('Saturn');
+insert into merk (name) values ('Volvo');
+insert into merk (name) values ('Lancia');
+insert into merk (name) values ('Eagle');
+insert into merk (name) values ('Fiat');
