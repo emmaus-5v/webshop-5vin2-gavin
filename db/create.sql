@@ -34,12 +34,12 @@ CREATE TABLE merk (
 -- want different data? check: https://www.mockaroo.com/910b6c20
 --
 
-insert into products (name, description, code, price, type_id, merk_id) values ('Volkswagen Golf', 'German besteller', '816905633-0', 34090.0, 3, 4);
-insert into products (name, description, code, price, type_id, merk_id) values ('Ford Model T', 'American bestseller.', '077030122-3', 24200.0, 1, 2);
-insert into products (name, description, code, price, type_id, merk_id) values ('Renault Clio', 'French bestseller', '54355232-0', 18569.0, 4, 5);
-insert into products (name, description, code, price, type_id, merk_id) values ('Toyota Corolla', 'Japanese bestseller.', '693155505-7', 27395.0, 6, 5);
-insert into products (name, description, code, price, type_id, merk_id) values ('Mini', 'British bestseller.', '686928463-6', 27395.0, 2, 3);
-insert into products (name, description, code, price, type_id, merk_id) values ('Ford Falcon', 'Australian bestseller.', '492662523-7', 21900.0, 3, 2);
+insert into products (name, description, code, price, type_id, merk_id) values ('Volkswagen Golf', 'German besteller', '816905633-0', 34090.0, 3, 2);
+insert into products (name, description, code, price, type_id, merk_id) values ('Ford Model T', 'American bestseller.', '077030122-3', 24200.0, 1, 5);
+insert into products (name, description, code, price, type_id, merk_id) values ('Renault Clio', 'French bestseller', '54355232-0', 18569.0, 4, 4);
+insert into products (name, description, code, price, type_id, merk_id) values ('Toyota Corolla', 'Japanese bestseller.', '693155505-7', 27395.0, 6, 1);
+insert into products (name, description, code, price, type_id, merk_id) values ('Mini', 'British bestseller.', '686928463-6', 27395.0, 2, 6);
+insert into products (name, description, code, price, type_id, merk_id) values ('Ford Falcon', 'Australian bestseller.', '492662523-7', 21900.0, 3, 5);
 insert into products (name, description, code, price, type_id, merk_id) values ('Ferrari 360', 'Over 17,000 coupés and convertibles.', '87548758-7', 85000.0, 3, 7);
 insert into products (name, description, code, price, type_id, merk_id) values ('Mercedes-Benz C-Class', '6,900,000 to November 2006.', '23849243-2', 57064.0, 5, 8);
 insert into products (name, description, code, price, type_id, merk_id) values ('Smart Fortwo', 'Over 1,500,000 by mid-2013.', '234579325-6', 23716.0, 3, 9);
