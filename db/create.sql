@@ -118,8 +118,8 @@ insert into motor (name) values ('Diesel');
 insert into motor (name) values ('LPG');
 insert into motor (name) values ('Elektrisch');
 
-insert into waardering (name) values ('1 ster');
-insert into waardering (name) values ('2 ster');
-insert into waardering (name) values ('3 ster');
-insert into waardering (name) values ('4 ster');
-insert into waardering (name) values ('5 ster');
+insert into waardering (name) values ('slecht');
+insert into waardering (name) values ('matig');
+insert into waardering (name) values ('gemiddeld');
+insert into waardering (name) values ('goed');
+insert into waardering (name) values ('uitstekend');
