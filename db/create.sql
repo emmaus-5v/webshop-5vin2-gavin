@@ -137,6 +137,8 @@ insert into waardering (name) values ('prima');
 insert into waardering (name) values ('goed');
 insert into waardering (name) values ('perfect');
 
+/* Ik wilde een relatie van n:m maken van de verkrijgbaarheid van auto's per gebied, maar dat lukte mij niet om in de webshop te krijgen. In de filmpjes werd dat niet duidelijk hoe je dat precies moest doen, dus heb ik alleen dit. */
+
 insert into verkrijgbaar (name) values ('West-Europa');
 insert into verkrijgbaar (name) values ('Oost-Europa');
 insert into verkrijgbaar (name) values ('Noord-Amerika');
